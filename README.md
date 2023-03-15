@@ -1,1 +1,1 @@
-fab-next-payment.netlify.app
+https://fab-next-payment.netlify.app
